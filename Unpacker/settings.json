@@ -1,0 +1,36 @@
+{
+  "GR2": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 1,
+    "ConformPath": null
+  },
+  "PAK": {
+    "ExtractInputPath": "",
+    "ExtractOutputPath": "",
+    "CreateInputPath": "E:\\SteamLibrary\\modifications\\Divinity - Original Sin 2\\Ger-Ua Loc",
+    "CreateOutputPath": "",
+    "CreatePackageVersion": 0,
+    "CreatePackageCompression": 4
+  },
+  "Resources": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 0
+  },
+  "Story": {
+    "InputPath": "",
+    "OutputPath": ""
+  },
+  "Debugging": {
+    "SavePath": ""
+  },
+  "SelectedGame": 3,
+  "Version": "1.14.0"
+}
