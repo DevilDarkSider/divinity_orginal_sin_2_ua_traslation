@@ -1,0 +1,1 @@
+# divinity_orginal_sin_2_ua_traslation
