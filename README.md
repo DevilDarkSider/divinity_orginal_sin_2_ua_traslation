@@ -1,2 +1,3 @@
-##Переклад українською гри
-#"Divinity: Original Sin 2"
+# "Divinity: Original Sin 2"
+### Переклад українською
+
