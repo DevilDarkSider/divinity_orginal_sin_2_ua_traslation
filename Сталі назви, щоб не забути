@@ -45,7 +45,7 @@ Deaf - Заглушений(а)
 Bleeding - Стікає кров&apos;ю
 Burning - Горить
 Acid - В кислоті
-Blinded - Застіплений(а)
+Blinded - Засліплений(а)
 Charmed - Зачарований(а)
 Cursed - Проклятий(а)
 Decaying - Розкладається
@@ -57,7 +57,7 @@ Terrified - Нажаханий(а)
 Enraged - Розлючений(а)
 Knocked Down - Збитий(а) з ніг
 Poisoned - Отруєний(а)
-Rested - Відповилий(а)
+Rested - Відпочилий(а)
 encumbered - Обтяжений(а)
 ———————————————————————————————————————————————————
 Accuracy - Точність
@@ -98,3 +98,4 @@ Dwarf - Дворф
 identifying glass - скельце для розпізнавання
 NPC - НГП (Не гральний персонаж)
 sight cones - поглядовий конус
+Contamination - Забруднення
