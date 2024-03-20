@@ -61,9 +61,9 @@
     - картинка 4
 
 У відсотковому значені перекладено: Чоловік(Ч), Жінка(Ж):
-- ![M->M](https://img.shields.io/badge/localization-3.95%25-green) (3648/92290) — Ч->Ч (тут насправді намішано)
-- ![M->F](https://img.shields.io/badge/localization-1.15%25-green) (15/1302) — Ч->Ж
-- ![F->M](https://img.shields.io/badge/localization-4.72%25-green) (12/254) — Ж->Ч
-- ![F->F](https://img.shields.io/badge/localization-0.56%25-green) (3/537) — Ж->Ж
+- ![M->M](https://img.shields.io/badge/localization-3.99%25-green) Ч->Ч
+- ![M->F](https://img.shields.io/badge/localization-1.23%25-green) Ч->Ж
+- ![F->M](https://img.shields.io/badge/localization-4.72%25-green) Ж->Ч
+- ![F->F](https://img.shields.io/badge/localization-0.56%25-green) Ж->Ж
 
 Все в процесі, як тільки буде покінчено з початковою локацією та предметами, можна випускати в люди для тестування і виправлень, у випадку якщо буде потрібно.
