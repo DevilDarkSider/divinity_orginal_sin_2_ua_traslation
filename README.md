@@ -1,6 +1,12 @@
 # "**Divinity: Original Sin 2 ED**"
 ### Переклад українською
 
+У відсотковому значені перекладено: Чоловік(M), Жінка(F):
+- ![M->M](https://img.shields.io/badge/4.01%25-loc:_M_-->_M-black)
+- ![M->F](https://img.shields.io/badge/1.23%25-loc:_M_-->_F-black)
+- ![F->M](https://img.shields.io/badge/4.72%25-loc:_F_-->_M-black)
+- ![F->F](https://img.shields.io/badge/0.56%25-loc:_F_-->_F-black)
+
 За основу перекладу береться англійська мова, однак основою самої модифікації є Німецька (зроблено через те, що німецька має жіночий рід).
 
 Існуючий та не існуючий переклади:
@@ -59,11 +65,5 @@
     - картинка 2
     - картинка 3
     - картинка 4
-
-У відсотковому значені перекладено: Чоловік(Ч), Жінка(Ж):
-- ![M->M](https://img.shields.io/badge/localization-4.01%25-green) Ч->Ч
-- ![M->F](https://img.shields.io/badge/localization-1.23%25-green) Ч->Ж
-- ![F->M](https://img.shields.io/badge/localization-4.72%25-green) Ж->Ч
-- ![F->F](https://img.shields.io/badge/localization-0.56%25-green) Ж->Ж
 
 Все в процесі, як тільки буде покінчено з початковою локацією та предметами, можна випускати в люди для тестування і виправлень, у випадку якщо буде потрібно.
