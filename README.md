@@ -61,7 +61,7 @@
     - картинка 4
 
 У відсотковому значені перекладено: Чоловік(Ч), Жінка(Ж):
-- ![M->M](https://img.shields.io/badge/localization-3.99%25-green) Ч->Ч
+- ![M->M](https://img.shields.io/badge/localization-4.01%25-green) Ч->Ч
 - ![M->F](https://img.shields.io/badge/localization-1.23%25-green) Ч->Ж
 - ![F->M](https://img.shields.io/badge/localization-4.72%25-green) Ж->Ч
 - ![F->F](https://img.shields.io/badge/localization-0.56%25-green) Ж->Ж
